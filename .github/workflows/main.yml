@@ -1,4 +1,4 @@
-name: morning
+name: water
 on:
   schedule:
   - cron:  '0 1-9 * * *'
